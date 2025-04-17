@@ -54,7 +54,7 @@ function setFilter(type: TodoFilterType) {
 
 <template>
   <main>
-    <h1>Good day Jasper!</h1>
+    <h1>Todo</h1>
 
     <TodoForm @add-todo="addTodo" />
 
